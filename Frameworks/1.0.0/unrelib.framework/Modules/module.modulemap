@@ -1,0 +1,6 @@
+framework module unrelib {
+  umbrella header "unrelib.h"
+
+  export *
+  module * { export * }
+}
