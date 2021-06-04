@@ -12,9 +12,21 @@
 		<data>
 		i6G43jmW4iChRDiI/iYYS7EZLv0=
 		</data>
+		<key>Headers/ScanResult.h</key>
+		<data>
+		ugbBIJwzJm9eJViZjWRKHJnIGO8=
+		</data>
 		<key>Headers/ScanStatus.h</key>
 		<data>
 		/NN8vgbHTizawLSlUz3WLG6Jcug=
+		</data>
+		<key>Headers/Ucl360Sdk.h</key>
+		<data>
+		Uqah+tVYJzEjzbaYtIjBeYtSj10=
+		</data>
+		<key>Headers/UnreDevice.h</key>
+		<data>
+		7jnjuhltjIXEitoXacNztHtGHtk=
 		</data>
 		<key>Headers/UnreDeviceInfo.h</key>
 		<data>
@@ -44,17 +56,13 @@
 		<data>
 		iZvMu4O59CYL/EsZI4D/UPXwQY8=
 		</data>
-		<key>Headers/unrelib.h</key>
-		<data>
-		ZAqUKk6WPjDcgWGEBhkWd1Y0AmQ=
-		</data>
 		<key>Info.plist</key>
 		<data>
-		55mUmKWBPlJIRG9K8GEl2+jaXP8=
+		zrq/VS4+SdhjPGF+/+t1SeQnBqM=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		Aj9pHgnnLl4VinQtJJgu74iREGY=
+		Jkh4S252A5SoeWGyf+E+smiMDN0=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -81,6 +89,17 @@
 			C2C8IHKi11kN8opcBcLAZ9JivsK4PNFY7x1hTKpXHtE=
 			</data>
 		</dict>
+		<key>Headers/ScanResult.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ugbBIJwzJm9eJViZjWRKHJnIGO8=
+			</data>
+			<key>hash2</key>
+			<data>
+			3kag7VACxlsUDQbMMJlhKHPaQy/QmVJTl8q6H2ZZ1oo=
+			</data>
+		</dict>
 		<key>Headers/ScanStatus.h</key>
 		<dict>
 			<key>hash</key>
@@ -90,6 +109,28 @@
 			<key>hash2</key>
 			<data>
 			SfHn6rLditgq45rCALck929BZaCxV67Tdw06+8WNmpc=
+			</data>
+		</dict>
+		<key>Headers/Ucl360Sdk.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Uqah+tVYJzEjzbaYtIjBeYtSj10=
+			</data>
+			<key>hash2</key>
+			<data>
+			FHGZmt6mZe2Jrc4kAZIYm8IIxUL30hurw/vJxUhmS9I=
+			</data>
+		</dict>
+		<key>Headers/UnreDevice.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			7jnjuhltjIXEitoXacNztHtGHtk=
+			</data>
+			<key>hash2</key>
+			<data>
+			Y/T1eBV0bHXJPdMjAbAEFah9geCw5p08A+IBQZpVZSE=
 			</data>
 		</dict>
 		<key>Headers/UnreDeviceInfo.h</key>
@@ -169,26 +210,15 @@
 			9XXIBLZhMnuCkL2detwFE992ZFE4NGchIEjKKhoXhW4=
 			</data>
 		</dict>
-		<key>Headers/unrelib.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			ZAqUKk6WPjDcgWGEBhkWd1Y0AmQ=
-			</data>
-			<key>hash2</key>
-			<data>
-			IpfXcMZgGP5ua8HruOLL4JyGK2CSll8d2JrH0YQ02r0=
-			</data>
-		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Aj9pHgnnLl4VinQtJJgu74iREGY=
+			Jkh4S252A5SoeWGyf+E+smiMDN0=
 			</data>
 			<key>hash2</key>
 			<data>
-			0NORf7d/n/gWxS5jGqcBRQdHbmPmgNOwqJlwHJwMM40=
+			7v5FUrJ36HfS1wwf7PCR77eQVjAWgw2HWItjiftUDho=
 			</data>
 		</dict>
 	</dict>
