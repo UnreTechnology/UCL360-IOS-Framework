@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "Ucl360Sdk"
-  spec.version      = "1.2.4"
+  spec.version      = "1.5.2"
   spec.summary      = "A short description of cocoafw."
 
   # This description is used to generate tags and improve search results.
@@ -95,8 +95,8 @@ Pod::Spec.new do |spec|
   spec.ios.vendored_framework = "Frameworks/#{spec.version}/Ucl360Sdk.framework"
   spec.preserve_paths = "Frameworks/#{spec.version}/Ucl360Sdk.framework"
   
-  spec.pod_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
-  spec.user_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
+  #spec.pod_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
+  #spec.user_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
   
   
   #spec.public_header_files = "unrelib/unrelib/api/**/*.h"
