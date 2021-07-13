@@ -95,8 +95,8 @@ Pod::Spec.new do |spec|
   spec.ios.vendored_framework = "Frameworks/#{spec.version}/Ucl360Sdk.framework"
   spec.preserve_paths = "Frameworks/#{spec.version}/Ucl360Sdk.framework"
   
-  #spec.pod_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
-  #spec.user_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
+  spec.pod_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
+  spec.user_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
   
   
   #spec.public_header_files = "unrelib/unrelib/api/**/*.h"
