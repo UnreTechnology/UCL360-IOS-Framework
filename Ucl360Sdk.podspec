@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "Ucl360Sdk"
-  spec.version      = "1.6.0"
+  spec.version      = "1.6.2"
   spec.summary      = "A short description of cocoafw."
 
   # This description is used to generate tags and improve search results.

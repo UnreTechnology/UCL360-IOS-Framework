@@ -1,0 +1,14 @@
+//
+//  Config-Ruixin.xcconfig
+//  Ucl360Sdk
+//
+//  Created by unre on 2021/7/5.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+#include "Pods/Target Support Files/Pods-Ucl360Sdk/Pods-Ucl360Sdk.release-ruixin.xcconfig"
+
+Sdk_Product = "ruixin"
+FLAG_CUSTOM = -DBUILD_RUIXIN
+
