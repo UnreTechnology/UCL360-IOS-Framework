@@ -1,0 +1,6 @@
+framework module Ucl360Sdk {
+  umbrella header "Ucl360Sdk.h"
+
+  export *
+  module * { export * }
+}
